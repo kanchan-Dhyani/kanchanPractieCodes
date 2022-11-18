@@ -37,6 +37,7 @@ public class Enums {
 		//coffeSize z = Enums.coffeSize.big; 
 		
 		coffeSize obj = coffeSize.medium;
+		coffeSize obj1 = coffeSize.small;
 		System.out.println(obj.getSize());
       printMe(obj);
 	}
