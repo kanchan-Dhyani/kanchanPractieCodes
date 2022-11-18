@@ -3,7 +3,7 @@ package GeneralPractice;
 enum coffeSize   { 
 	big( "500ml",0),
 	small("100ml",1) ,
-	medium("200ml",2);
+	medium("200ml",4);
 
 	coffeSize(String size) {
 		this.size = size;
